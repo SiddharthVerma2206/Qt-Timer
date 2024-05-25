@@ -124,7 +124,7 @@
   </property>
   <property name="windowIcon">
    <iconset resource="iconresource.qrc">
-    <normaloff>:/icons/timer.png</normaloff>:/icons/timer.png</iconset>
+    <normaloff>:/icons/timericon.ico</normaloff>:/icons/timericon.ico</iconset>
   </property>
   <property name="styleSheet">
    <string notr="true">QMainWindow{

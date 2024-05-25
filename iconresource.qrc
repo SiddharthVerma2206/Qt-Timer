@@ -1,12 +1,11 @@
-<!DOCTYPE RCC><RCC version="1.0">
- <qresource>
-     <file>icons/play.png</file>
-     <file>icons/pause.png</file>
-     <file>icons/history.png</file>
-     <file>icons/reset.png</file>
-     <file>icons/minimize.png</file>
-     <file>icons/maximize.png</file>
-     <file>icons/timer.png</file>
-     <file>icons/timericon.ico</file>
- </qresource>
- </RCC>
+<RCC>
+    <qresource prefix="/">
+        <file>icons/play.png</file>
+        <file>icons/pause.png</file>
+        <file>icons/history.png</file>
+        <file>icons/reset.png</file>
+        <file>icons/minimize.png</file>
+        <file>icons/maximize.png</file>
+        <file>icons/timericon.ico</file>
+    </qresource>
+</RCC>
